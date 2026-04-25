@@ -1,4 +1,4 @@
-## H1B Visa Case Prediction (IS-734 Project)
+# H1B Visa Case Prediction (IS-734 Project)
 
 This project focuses on analyzing historical H1B visa data to predict whether applications will be approved or denied. Using a dataset obtained from Kaggle, the study explores patterns and builds predictive models to better understand the factors influencing visa decisions.
 
